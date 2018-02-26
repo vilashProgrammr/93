@@ -5,6 +5,10 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//dj2
+	//dj2
+	print_r($_SESSION);
+	
 	
 }
 // delete condition
